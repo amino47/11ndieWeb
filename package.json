@@ -1,27 +1,24 @@
 {
-  "name": "11ndieweb",
+  "name": "ashellm.net",
   "version": "0.1.0",
-  "description": "An 11ty starter site for the IndieWeb",
+  "description": "An modified copy of 11ndieweb",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rockorager/11ndieWeb.git"
+    "url": "git+https://github.com/Amino47/11ndieWeb.git"
   },
   "keywords": [
     "indieweb",
     "11ty",
     "eleventy",
-    "starter"
+    "page"
   ],
   "author": "Tim Culverhouse <tim@timculverhouse.com> (https://www.timculverhouse.com/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rockorager/11ndieWeb/issues"
-  },
-  "homepage": "https://github.com/rockorager/11ndieWeb#readme",
+  "homepage": "https://ashellm.net",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "netlify-plugin-inline-functions-env": "^1.0.9"
